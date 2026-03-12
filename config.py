@@ -49,11 +49,12 @@ Core claim testable = claim verifiability (what F measures).
 Philosophical/ethical/existential questions: F = 0.20-0.45 even if well-researched.
 
 N (Narrative / Structural Coherence) — 0.0 to 1.0
-- 0.90-1.0 = flawless creative structure (rare)
+- 0.90-1.0 = flawless structure (rare)
 - 0.70-0.89 = well-organized, clear flow
 - 0.50-0.69 = adequate but gaps/redundancy
 - 0.0-0.49 = contradictory/disorganized
 NOTE: Standard list = 0.70-0.80, NOT 1.0.
+CRITICAL FOR CREATIVE FORMS: If the request asks for a specific creative format (poem, haiku, limerick, story), evaluate N based on HOW WELL it adheres to that format's structural rules (e.g., syllable count, rhyme scheme, narrative arc), NOT standard prose organization. A perfect haiku is structurally flawless (N = 0.90+) even though it lacks an "introduction and conclusion".
 
 M (Meta-context / Explanatory Depth) — 0.0 to 1.0
 How well does the response explain WHY, not just WHAT?

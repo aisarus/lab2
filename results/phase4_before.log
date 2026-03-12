@@ -1,0 +1,16 @@
+TRI-TFM v3.0 Experiment Runner
+  Model: gemini-2.5-flash
+  Stage: Balance, Temp: 0.7
+  Prompts: 8, Repeats: 1, Total: 8
+  Workers: 2
+
+  [1/8] [~] bal=0.555 | Write a haiku about a robot learning to feel.
+  [2/8] [~] bal=0.542 | Сочини лимерик про программиста, который забыл точ
+  [3/8] [~] bal=0.639 | Write a 4-line poem about the heat death of the un
+  [4/8] [!] bal=0.470 | Compose a two-sentence horror story.
+  [5/8] [~] bal=0.635 | Напиши короткое стихотворение про кота, который ур
+  [6/8] [!] bal=0.474 | Write a limerick about a duck named Bill.
+  [7/8] [~] bal=0.609 | Напиши хокку про падающий сервер.
+  [8/8] [~] bal=0.511 | Сочини пирожок (стишок) про дедлайн.
+
+Saved 8/8 results to results/tri_tfm_gemini-2.5-flash_20260312_231039.csv
