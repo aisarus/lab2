@@ -1,0 +1,21 @@
+prompt,category,language
+"List the planets in our solar system.",factual,en
+"Why do the inner planets have rocky compositions while the outer planets are gas giants, and what does this tell us about planetary formation?",factual,en
+"What is inflation in economics?",factual,en
+"Explain the causal mechanisms through which monetary policy transmission affects inflation expectations, and why traditional Phillips curve models have become less reliable since 2008.",factual,en
+"What is photosynthesis?",factual,en
+"Explain why C4 photosynthesis evolved independently in multiple plant lineages, what selective pressures drove this convergent evolution, and how this informs our understanding of bioengineering drought-resistant crops.",factual,en
+"What are the symptoms of depression?",factual,en
+"Analyze the neurobiological feedback loops between chronic stress, HPA axis dysregulation, and serotonergic dysfunction in treatment-resistant depression, and explain why SSRIs fail in approximately 30% of patients.",factual,en
+"What is machine learning?",factual,en
+"Explain the fundamental trade-off between bias and variance in machine learning, why this creates an inherent tension with model interpretability, and how this shapes the debate around deploying black-box models in high-stakes domains like criminal justice.",factual,en
+"What causes earthquakes?",factual,en
+"Explain the chain of causation from mantle convection to seismic wave propagation, why subduction zones produce more powerful earthquakes than transform faults, and what this implies for probabilistic seismic hazard models.",factual,en
+"What is the GDP of the United States?",factual,en
+"Critically analyze why GDP as a welfare metric is fundamentally flawed — examining its failure to capture inequality, environmental externalities, and unpaid labor — and explain why alternative measures like the Genuine Progress Indicator have not replaced it despite decades of advocacy.",factual,en
+"What is CRISPR?",factual,en
+"Explain the mechanistic differences between CRISPR-Cas9, base editing, and prime editing, why off-target effects remain a challenge despite improved guide RNA design, and how the regulatory landscape for somatic vs germline editing reflects deeper tensions between scientific progress and bioethics.",factual,en
+"What are renewable energy sources?",factual,en
+"Analyze why the energy transition faces a 'minerals trilemma' — the dependency on rare earth elements for wind turbines and batteries creates new geopolitical vulnerabilities that mirror the fossil fuel dependencies renewables aim to replace. Explain the causal chain and potential solutions.",factual,en
+"What is blockchain?",factual,en
+"Explain why blockchain's consensus mechanisms create a fundamental scalability trilemma (decentralization, security, throughput), how Layer 2 solutions attempt to circumvent it, and why this technical constraint has shaped the divergent evolution of public vs enterprise blockchain architectures.",factual,en
