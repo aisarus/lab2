@@ -1,0 +1,8 @@
+
+[PHASE 5] Average Standard Deviation (Sigma) PER PROMPT by Temperature:
+How much the Judge's scores fluctuate on the exact same text:
+           E       F       N       M       B     bal
+temp                                                
+0.0   0.0091  0.0000  0.0091  0.0091  0.0000  0.0071
+0.4   0.0274  0.0149  0.0911  0.0274  0.0224  0.0421
+0.8   0.0355  0.0224  0.1121  0.0300  0.0075  0.0356
